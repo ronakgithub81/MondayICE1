@@ -15,8 +15,12 @@ public class StudentDemo
   private String name;
   private String program;
   private String course;
+  private String fetch;
   //ading some comment
   // ADDING COMMENT WHILE IN TRANG NGUYEN BRANCH 
+  
+  // this comment is for Fetch and merge practice 
+  
   /**
    * A constructor to pass in the given ID and then name
    * @param givenID - the ID to assign
