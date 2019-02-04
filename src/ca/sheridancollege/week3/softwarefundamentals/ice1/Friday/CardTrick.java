@@ -15,8 +15,10 @@ public class CardTrick {
         OwenBarrington.setSuit("Spades");
         OwenBarrington.setValue(9);
         
+        System.out.println("your card is: " + OwenBarrington);
+    
+        
     }
     
-    System.out.println("your card is: " + OwenBarrington);
     
 }
