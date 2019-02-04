@@ -7,7 +7,8 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
  *
- * @author Ronak
+ * @author Ronak, Graham
+ *      991512414
  */
 public class Card {
 
