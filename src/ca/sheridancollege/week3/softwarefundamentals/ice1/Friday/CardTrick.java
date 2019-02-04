@@ -10,6 +10,12 @@ public class CardTrick {
     public static void main(String[] args)
     {
            Card obj = new Card();//create Card obj
+        
+        obj.setSuit("hello");
+        obj.setValue(1);
+        
+        System.out.println(obj.getSuit());
+        System.out.println(obj.getValue());
            
     }
     
