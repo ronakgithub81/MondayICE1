@@ -17,6 +17,11 @@ public class CardTrick {
         OwenBarrington.setValue(9);
         
         System.out.println("your card is: " + OwenBarrington);
+        
+        Card newCard = new Card();
+        
+        newCard.setValue(7);
+        newCard.setSuit("Clubs");
 
         
     }
