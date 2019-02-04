@@ -13,6 +13,8 @@ public class CardTrick {
        trangCard.setValue(8); 
        trangCard.setSuit("Diamond");
        System.out.println (trangCard.getSuit() + " " + trangCard.getValue() );
+       
+        Card trangCard1 = new Card();
     }
     
 }
