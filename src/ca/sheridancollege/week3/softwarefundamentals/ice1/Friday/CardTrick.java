@@ -9,7 +9,10 @@ public class CardTrick {
     public static void main(String[] args)           
     {
        Card trangCard = new Card();
-       
+        
+       trangCard.setValue(8); 
+       trangCard.setSuit("Diamond");
+       System.out.println (trangCard.getSuit() + " " + trangCard.getValue() );
     }
     
 }
