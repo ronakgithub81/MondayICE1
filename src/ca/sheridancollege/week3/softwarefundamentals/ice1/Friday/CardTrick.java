@@ -12,7 +12,7 @@ public class CardTrick {
         violantf.setSuit("Hearts");
         violantf.setValue(7);
         
-        System.out.println("Suit: " + violantf.getSuit + "\nVlaue: " + violantf.getVlaue);
+        System.out.println("Suit: " + violantf.getSuit() + "\nVlaue: " + violantf.getValue());
     }
     
 }
