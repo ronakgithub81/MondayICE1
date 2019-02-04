@@ -11,6 +11,8 @@ public class CardTrick {
     {
        Card card1 = new Card();
        System.out.printlin(card);
+       Card card2 = new Card();
+       System.out.println(card2); 
        
     }
     
