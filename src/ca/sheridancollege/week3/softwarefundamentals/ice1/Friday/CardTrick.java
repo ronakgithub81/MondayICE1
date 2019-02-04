@@ -12,7 +12,12 @@ public class CardTrick {
         violantf.setSuit("Hearts");
         violantf.setValue(7);
         
+        Card alt = new Card();
+        alt.setSuit("Hearts");
+        alt.setValue(7);
+        
         System.out.println("Suit: " + violantf.getSuit() + "\nValue: " + violantf.getValue());
+        System.out.println("Suit: " + alt.getSuit() + "\nValue: " + alt.getValue());
     }
     
 }
