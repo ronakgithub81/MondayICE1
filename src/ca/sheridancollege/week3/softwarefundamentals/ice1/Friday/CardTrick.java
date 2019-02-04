@@ -10,16 +10,6 @@ public class CardTrick {
     {
        //object of card class
         Card cardObj = new Card();
-        
-        //setting suit and value
-        cardObj.setSuit("Hearts");
-        cardObj.setValue(1);
-        
-        //printing suit and value
-        System.out.println(cardObj.getSuit());
-        System.out.println(cardObj.getValue());
-        
-        
     }
     
 }
