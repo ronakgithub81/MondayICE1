@@ -18,7 +18,7 @@ public class CardTrick {
         //printing suit and value
         System.out.println(cardObj.getSuit());
         System.out.println(cardObj.getValue());
-        
+        //add
         
     }
     
