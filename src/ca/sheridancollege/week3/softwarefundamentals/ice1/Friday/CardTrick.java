@@ -16,6 +16,8 @@ public class CardTrick {
         myCard.setValue((int)(Math.random()*(13 - 1)+1));
         System.out.print("\nPick a card: "+myCard.getSuit()); //Printing card Suit
         System.out.print("\nCard value: "+myCard.getValue()); //Printing card Value
+        
+        Card lastObj = new Card(); //new obj for question 7
     }
     
 }
