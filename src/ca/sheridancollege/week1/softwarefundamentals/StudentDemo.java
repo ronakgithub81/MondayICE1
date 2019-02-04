@@ -16,6 +16,7 @@ public class StudentDemo
   private String program;
   private String course;
   //ading some comment
+  // ADDING COMMENT WHILE IN TRANG NGUYEN BRANCH 
   /**
    * A constructor to pass in the given ID and then name
    * @param givenID - the ID to assign
