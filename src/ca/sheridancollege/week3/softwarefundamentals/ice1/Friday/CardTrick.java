@@ -9,7 +9,9 @@ public class CardTrick {
     public static void main(String[] args)
     {
        Card leah = new Card();
-       Systems.out.println(leah);
+        
+        System.out.println(leah.getSuit());
+        System.out.println(leah.getValue());
        
     }
     
