@@ -3,7 +3,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
  *
- * @author Daniel morrison
+ * @author Daniel Morrison
  * Student num: 991516745
  */
 public class CardTrick {
