@@ -12,6 +12,9 @@ public class CardTrick {
         Card OwenBarrington = new Card();
         //Student number is 991393649
         
+        OwenBarrington.setSuit("Spades");
+        OwenBarrington.setValue(9);
+        
     }
     
 }
