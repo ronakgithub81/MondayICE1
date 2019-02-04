@@ -11,8 +11,14 @@ public class CardTrick {
        Card card = new Card(); // object created
        card.setSuit("Hearts");
        card.setValue(7);
+       
+       Card card2 = new Card(); // object created
+       card.setSuit("Diamonds");
+       card.setValue(8);
+       
+       
         
-       System.out.println("Card: " + card.getSuit() + " Value: " + card.getValue);
+       System.out.println("Card: " + card.getSuit() + " Value: " + card.getValue());
     }
     
 }
