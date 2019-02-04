@@ -10,8 +10,8 @@ public class CardTrick {
     public static void main(String[] args)
     {
        Card jessy = new Card();
-        System.out.println(jessy.getSuit);
-        System.out.println(jessy.getValue);
+        System.out.println(jessy.getSuit());
+        System.out.println(jessy.getValue());
     }
     
 }
