@@ -1,13 +1,12 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Student: Jessy Singh Pawar
+Student ID: 991524234
  */
 package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
  *
- * @author Ronak
+ * @author Jessy
  */
 public class Card {
 
