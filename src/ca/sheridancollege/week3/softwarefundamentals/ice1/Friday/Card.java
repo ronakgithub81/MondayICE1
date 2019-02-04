@@ -3,16 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
 package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
-/**
- *
- * @author Ronak
- */
+/*
+* Name: Yinan Song
+* ID: 991485388
+*/
 public class Card {
 
    private String suit; //clubs, spades, diamonds, hearts
    private int value;//1-13
+   
+   public Card(){}
 
    public static final String [] SUITS = {"Hearts", "Diamonds", "Spades", "Clubs"};
     /**
