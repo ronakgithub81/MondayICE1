@@ -1,6 +1,7 @@
 
 package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
+
 /**
  *
  * @author Ronak
@@ -16,10 +17,8 @@ public class CardTrick {
         OwenBarrington.setValue(9);
         
         System.out.println("your card is: " + OwenBarrington);
-    
-        
+
         
     }
-    
-    
+      
 }
