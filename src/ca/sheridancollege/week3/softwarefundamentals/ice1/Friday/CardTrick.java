@@ -11,6 +11,8 @@ public class CardTrick {
     {
 
         Card obj = new Card();
+        System.out.println(Card.GetSuit());
+        System.out.println(Card.GetValue());
        
     }
     
