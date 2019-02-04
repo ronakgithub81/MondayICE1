@@ -17,4 +17,6 @@ public class CardTrick {
         
     }
     
+    System.out.println("your card is: " + OwenBarrington);
+    
 }
