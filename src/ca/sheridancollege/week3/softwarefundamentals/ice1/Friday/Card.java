@@ -49,6 +49,12 @@ public class Card {
         this.value = value;
     }
    
+   public void toString()
+   {
+      System.out.println("Card suit: " + this.suit + ".");
+      System.out.println("Value: " + this.value + ".");
+   }
+   
    
     
 }
