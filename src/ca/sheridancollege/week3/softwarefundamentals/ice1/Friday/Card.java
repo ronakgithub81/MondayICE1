@@ -49,10 +49,13 @@ public class Card {
         this.value = value;
     }
    
-   public void toString()
+    /*
+     *@Override
+     */
+   public String toString()
    {
-      System.out.println("Card suit: " + this.suit + ".");
-      System.out.println("Value: " + this.value + ".");
+      
+      return "Card suit: " + this.suit + ".\n" + "Value: " + this.value + ".";
    }
    
    
